@@ -2,17 +2,19 @@
   - Users
     - ID
     - Login
-    - Password
-    - Email
+    - Password    
     - 
   - Clients
       - ID
       - Name
       - Surname
-      - Phone
+      - Phone / Mobile
+      - W/A Phone
+      - Email
       - Address
       - Date
-      - Work Description
+      - Service Description
       - Price
       - Testimonials
+      - Master Notes
   
